@@ -1,16 +1,19 @@
 <div align="center">
 
 <!-- HERO -->  
-<img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/lazyappz-icon.svg"
+<a href="https://lindocode.com"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/lazyappz-icon.svg"
        width="180"
-       style="vertical-align:-6px; margin-right:12px; " />
+       style="vertical-align:-6px; margin-right:12px; " /></a>
 
 
-<h3>Apps That Work, So You Don't Have To.</h3>
+<a href="https://lindocode.com"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/apps-that-work-slogan.svg" width="520" alt="INNOVATE · BUILD · SCALE" /></a>
+<br/>
+<br/>
+<a href="https://lindocode.com"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/apps-lab.svg" width="560" alt="Portfolio — Web, Mobile, Backend and UI Systems" /></a>
 
-<p style="max-width:620px; font-size:0.3rem; color:#555555; font-family: sans;">
-  <em>Experimental products. Fast builds. Real-world usefulness.</em>
-</p>
+<!-- NAV -->
+<br>
+
 <p>
   <a href="https://lindocode.com"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/nav-studio.svg" height="28" alt="Studio" /></a>
   <img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/nav-dot.svg" height="28" alt="·" />
@@ -22,9 +25,9 @@
 <br>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/STUDIO-LINDOCODE-0E0E0E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB·MOBILE·SYSTEMS-0E0E0E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-SOUTH%20AFRICA-B27B32?style=for-the-badge"/>
+<a href="https://lindocode.com"><img src="https://img.shields.io/badge/STUDIO-LINDOCODE%20DIGITAL-0E0E0E?style=for-the-badge"/></a>
+<a href="https://lindocode.com"><img src="https://img.shields.io/badge/FOCUS-WEB·MOBILE·SYSTEMS-0E0E0E?style=for-the-badge"/></a>
+<a href="https://lindocode.com"><img src="https://img.shields.io/badge/BASED%20IN-SOUTH%20AFRICA-B27B32?style=for-the-badge"/></a>
 
 </div>
 
