@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO -->  
-<a href="https://lindocode.com"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/lazyappz-icon1.svg"
+<a href="https://lindocode.com/digitalhub"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/lazyappz-icon1.svg"
        width="180"
        style="vertical-align:-6px; margin-right:12px; " /></a>
 
